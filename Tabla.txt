@@ -1,0 +1,20 @@
+ <!DOCTYPE html>
+<html>
+<body>
+<table border="1"><font color"blue">
+  <caption><td bgcolor="grey"><p align="center"><font color="blue">Control de texto</td></caption></p>
+<tr>
+  <td bgcolor="grey"><font color="blue">Comando</font></td>
+<td bgcolor="grey"><font color="blue">Funcion</td></tr>
+<tr><td bgcolor="grey"><font color="blue"> < hr> </td><td bgcolor="grey"><font color="blue">Dibuja</td></tr>
+<tr></tr><td bgcolor="grey"><font color="blue">< P>_< /P></td><td bgcolor="grey"><font color="blue">Deja</td></tr>
+<tr><td bgcolor="grey"><font color="blue">< P align="  "></td><td bgcolor="grey"><font color="blue">Alinea</td></tr>
+<tr><td bgcolor="grey"><font color="blue">< blockquote>< /blockquote></td><td bgcolor="grey"><font color="blue">Sangria</td></tr>
+<tr><td bgcolor="grey"><font color="blue">< blink>< /blink></td><td bgcolor="grey"><font color="blue">El</td></tr>
+<tr>
+<td bgcolor="grey"><font color="blue">< /br></td> <td bgcolor="grey"><font color="blue">Salto</td></tr>
+</font>
+</td>
+</table>
+  </body>
+</html>
